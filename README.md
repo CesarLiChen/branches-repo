@@ -14,4 +14,8 @@ If there are merge conflicts:
    - Open problematic file, and do changes manually.
    - `git add .` and `git commit -m "<Commit message>"`
 
-END
+END  
+
+### Pull requests, an attempt  
+
+I'm adding a line from **a-new-branch**, which is the 3rd branch created.
