@@ -18,4 +18,6 @@ END
 
 ### Pull requests, an attempt  
 
-I'm adding a line from **a-new-branch**, which is the 3rd branch created.
+I'm adding a line from **a-new-branch**, which is the 3rd branch created.  
+
+Pull requests requires another branch beside main. Create a new pull request within the Github's website.
